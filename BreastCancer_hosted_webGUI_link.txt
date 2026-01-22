@@ -1,0 +1,6 @@
+Name: Abiona Sinmisola
+Matric Number: 22CH031975
+Machine Learning Algorithm Used: Logistic Regression
+Model Persistence Method Used: Joblib
+GitHub Repository Link: https://github.com/abionasinmisola-jpg/BreastCancer_Project_AbionaSinmisola.git
+Live URL of the Hosted Application: https://breastcancer-project-abionasinmisola.onrender.com/predict
